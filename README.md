@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='hhttps://github.com/kesongxie/PhotoMap/tree/master/Photo%20Map/gif%20demo' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/kesongxie/PhotoMap/blob/master/Photo%20Map/gif%20demo/photo-map-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
